@@ -1,5 +1,5 @@
-FRM = 'vixncol@gmail.com'
-PAS = 'teamatbm'
+FRM = '********@gmail.com'
+PAS = '*********'
 dst = '2021-05-01 23:16:10.136851'#ngay chuong trinh tu huy
 
 
